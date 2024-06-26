@@ -1,5 +1,5 @@
 ﻿# WebsiteBanMyPham
-### Công nghệ sử dụng: HTML, CSS, Bootstrap, Python django, cơ sở dữ liệu SQL Lite3
+### Công nghệ sử dụng: HTML, CSS, Bootstrap, Python django, cơ sở dữ liệu SQLite3
 ### Thực hiện: Nhóm 4 thành viên
 
 ### Chức năng đảm nhận:
