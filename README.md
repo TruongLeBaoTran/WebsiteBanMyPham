@@ -1,5 +1,5 @@
 ﻿# WebsiteBanMyPham
-### Công nghệ sử dụng: Python django, cơ sở dữ liệu SQL Lite3
+### Công nghệ sử dụng: HTML, CSS, Bootstrap, Python django, cơ sở dữ liệu SQL Lite3
 ### Thực hiện: Nhóm 4 thành viên
 
 ### Chức năng đảm nhận:
@@ -14,7 +14,7 @@ Hiển thị danh sách sản phẩm, thêm, xóa, sửa, xem chi tiết 1 loạ
 Hiển thị danh sách sản phẩm, thêm, xóa, sửa, xem chi tiết 1 thương hiệu
 Phân trang, sắp xếp, tìm kiếm
 Hiển thị danh sách các tài khoản người dùng
-Hiển thị danh sách các đơn hàng, tính tổng doanh thu, tổng đơn hàng đã đặt,...Cho phép xóa, cập nhật đơn hàng
+Hiển thị danh sách các đơn hàng, tính tổng doanh thu, tổng đơn hàng đã đặt,...Cho phép cập nhật đơn hàng
 
 ### Các tính năng trang CỬA HÀNG:
 Đăng kí, đăng nhập
